@@ -23,6 +23,12 @@ Practice online shopping app
 -> Include navigation controls in the modal to move to the next or previous card.
 -> Ensure the modal is accessible, with the ability to close it using a button or the Escape key.
 
+# Search field
+1. Implement a search field that lets the user search a product by its name.
+2. Implement a JavaScript function that filters and displays matching items from a list as the user types.
+3. The search should be case-insensitive and display results in real-time.
+4. Consider optimizing the function for performance if the list contains a large number of items.
+
 # Cart page
 
 1. Implement a JavaScript function that manages the shopping cart.
