@@ -22,3 +22,9 @@ Practice online shopping app
 -> Open a modal window displaying the image in a larger view with additional information (e.g., title, description).
 -> Include navigation controls in the modal to move to the next or previous card.
 -> Ensure the modal is accessible, with the ability to close it using a button or the Escape key.
+
+# Cart page
+
+1. Implement a JavaScript function that manages the shopping cart.
+2. The function should be able to add items, remove items, update item quantities, and calculate the total price of items in the cart.
+3. Handle the UI of items in the cart as a list with a checkout and back button at the bottom.
